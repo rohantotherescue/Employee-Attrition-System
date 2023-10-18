@@ -1,0 +1,10 @@
+Compliant,2022-01-01
+Non-compliant,2022-02-15
+Non-Compliant,2022-03-30
+Non-compliant,2022-04-25
+Non-Compliant,2022-05-10
+Compliant,2022-06-21
+Non-compliant,2022-07-05
+Compliant,2022-08-12
+Non-Compliant,2022-09-17
+Compliant,2022-10-31

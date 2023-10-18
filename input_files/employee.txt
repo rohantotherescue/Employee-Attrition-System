@@ -1,0 +1,4 @@
+rish_user,rish_pass,Rishab,Agrawal,1000000,10,10,10,10,10,10,10,10,10,10
+roh_user,roh_pass,Rohan,N,9999999,5,5,5,5,5,5,5,5,5,5
+neil_user,neil_pass,Neil,Fernandes,500000,10,10,10,10,10,10,10,10,10,10
+prat_user,prat_pass,Pratyush,RK,7000,10,10,10,10,10,10,10,10,10,10
