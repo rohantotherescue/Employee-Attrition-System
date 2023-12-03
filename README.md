@@ -1,7 +1,7 @@
 # Employee-Attrition-System
  A minimalist system to analyze the Employee Attrition rate. 
 ## Created using Java, as part of the course 'Object oriented Analysis and Design with Java'.
-## This project incorporates various object oriented programming concepts, to create a system that can view and modify various parameters of an Employee profile in order to analyze the attrition rate.
+ This project incorporates various object oriented programming concepts, to create a system that can view and modify various parameters of an Employee profile in order to analyze the attrition rate.
 
 # Output
 
